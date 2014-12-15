@@ -1,0 +1,19 @@
+{
+  "name": "middlecache",
+  "version": "1.0.0-0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "supertest": "^0.15.0",
+    "weakmap": "0.0.6"
+  },
+  "devDependencies": {
+    "express": "^4.10.6",
+    "tape": "^3.0.3"
+  }
+}
